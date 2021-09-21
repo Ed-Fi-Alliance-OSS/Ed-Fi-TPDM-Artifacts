@@ -7,9 +7,9 @@
 		<Namespace>uri://tpdm.ed-fi.org/EnglishLanguageExamDescriptor</Namespace>
 	</EnglishLanguageExamDescriptor>
 	<EnglishLanguageExamDescriptor>
-		<CodeValue>N/A</CodeValue>
-		<ShortDescription>N/A</ShortDescription>
-		<Description>N/A</Description>
+		<CodeValue>Not Applicable</CodeValue>
+		<ShortDescription>Not Applicable</ShortDescription>
+		<Description>Not Applicable</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EnglishLanguageExamDescriptor</Namespace>
 	</EnglishLanguageExamDescriptor>
 	<EnglishLanguageExamDescriptor>

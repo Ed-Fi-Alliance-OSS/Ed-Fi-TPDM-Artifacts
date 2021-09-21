@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <InterchangeDescriptors xmlns="http://ed-fi.org/3.3.1-b" xmlns:ann="http://ed-fi.org/annotation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ed-fi.org/3.3.1-b ../Schemas/Bulk/EXTENSION-Interchange-Descriptors-Extension.xsd">
 	<EvaluationTypeDescriptor>
-		<CodeValue>Formal Eval</CodeValue>
-		<ShortDescription>Formal Eval</ShortDescription>
-		<Description>Formal evaluation</Description>
+		<CodeValue>Formal Evaluation</CodeValue>
+		<ShortDescription>Formal Evaluation</ShortDescription>
+		<Description>Formal Evaluation</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
 	<EvaluationTypeDescriptor>
-		<CodeValue>Formal Obs</CodeValue>
-		<ShortDescription>Formal Obs</ShortDescription>
+		<CodeValue>Formal Observation</CodeValue>
+		<ShortDescription>Formal Observation</ShortDescription>
 		<Description>Formal Observation</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
 	<EvaluationTypeDescriptor>
-		<CodeValue>Self Eval</CodeValue>
-		<ShortDescription>Self Eval</ShortDescription>
-		<Description>Formal evaluation self-rating</Description>
+		<CodeValue>Formal Evaluation Self-Rating</CodeValue>
+		<ShortDescription>Formal Evaluation Self-Rating</ShortDescription>
+		<Description>Formal Evaluation Self-Rating</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
 	<EvaluationTypeDescriptor>
-		<CodeValue>Informal Obs</CodeValue>
-		<ShortDescription>Informal Obs</ShortDescription>
+		<CodeValue>Informal Observation</CodeValue>
+		<ShortDescription>Informal Observation</ShortDescription>
 		<Description>Informal Observation</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
@@ -31,15 +31,15 @@
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
 	<EvaluationTypeDescriptor>
-		<CodeValue>Self Informal Obs</CodeValue>
-		<ShortDescription>Self Informal Obs</ShortDescription>
-		<Description>Informal Observation self-rating</Description>
+		<CodeValue>Informal Observation Self-Rating</CodeValue>
+		<ShortDescription>Informal Observation Self-Rating</ShortDescription>
+		<Description>Informal Observation Self-Rating</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
 	<EvaluationTypeDescriptor>
-		<CodeValue>Self Formal Obs</CodeValue>
-		<ShortDescription>Self Formal Obs</ShortDescription>
-		<Description>Formal Observation self-rating</Description>
+		<CodeValue>Formal Observation Self-Rating</CodeValue>
+		<ShortDescription>Formal Observation Self-Rating</ShortDescription>
+		<Description>Formal Observation Self-Rating</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
 	<EvaluationTypeDescriptor>
@@ -57,7 +57,7 @@
 	<EvaluationTypeDescriptor>
 		<CodeValue>Student Survey</CodeValue>
 		<ShortDescription>Student Survey</ShortDescription>
-		<Description>StudentSurvey</Description>
+		<Description>Student Survey</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor</Namespace>
 	</EvaluationTypeDescriptor>
 </InterchangeDescriptors>

@@ -13,6 +13,12 @@
 		<Namespace>uri://tpdm.ed-fi.org/GenderDescriptor</Namespace>
 	</GenderDescriptor>
 	<GenderDescriptor>
+		<CodeValue>Other</CodeValue>
+		<ShortDescription>Other</ShortDescription>
+		<Description>Other</Description>
+		<Namespace>uri://tpdm.ed-fi.org/GenderDescriptor</Namespace>
+	</GenderDescriptor>
+	<GenderDescriptor>
 		<CodeValue>Not Selected</CodeValue>
 		<ShortDescription>Not Selected</ShortDescription>
 		<Description>Not Selected</Description>

@@ -7,9 +7,9 @@
 		<Namespace>uri://tpdm.ed-fi.org/AcademicSubjectDescriptor</Namespace>
 	</AcademicSubjectDescriptor>
 	<AcademicSubjectDescriptor>
-		<CodeValue>ELL</CodeValue>
-		<ShortDescription>ELL</ShortDescription>
-		<Description>ELL</Description>
+		<CodeValue>English Language Learners</CodeValue>
+		<ShortDescription>English Language Learners</ShortDescription>
+		<Description>English Language Learners</Description>
 		<Namespace>uri://tpdm.ed-fi.org/AcademicSubjectDescriptor</Namespace>
 	</AcademicSubjectDescriptor>
 	<AcademicSubjectDescriptor>

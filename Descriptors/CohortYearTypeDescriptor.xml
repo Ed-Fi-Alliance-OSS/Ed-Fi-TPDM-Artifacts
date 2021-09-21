@@ -3,13 +3,13 @@
 	<CohortYearTypeDescriptor>
 		<CodeValue>Completion</CodeValue>
 		<ShortDescription>Completion</ShortDescription>
-		<Description>A cohort year based on the candidates' scheduled completion</Description>
+		<Description>A cohort year based on the candidate's scheduled completion</Description>
 		<Namespace>uri://tpdm.ed-fi.org/CohortYearTypeDescriptor</Namespace>
 	</CohortYearTypeDescriptor>
 	<CohortYearTypeDescriptor>
 		<CodeValue>Entry</CodeValue>
 		<ShortDescription>Entry</ShortDescription>
-		<Description>A cohort year based on the entry of candidate into the EPP</Description>
+		<Description>A cohort year based on the entry of candidate into the Eucator Preparation Provider</Description>
 		<Namespace>uri://tpdm.ed-fi.org/CohortYearTypeDescriptor</Namespace>
 	</CohortYearTypeDescriptor>
 </InterchangeDescriptors>

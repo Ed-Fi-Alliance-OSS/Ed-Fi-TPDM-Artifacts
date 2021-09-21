@@ -7,9 +7,9 @@
 		<Namespace>uri://tpdm.ed-fi.org/CertificationRouteDescriptor</Namespace>
 	</CertificationRouteDescriptor>
 	<CertificationRouteDescriptor>
-		<CodeValue>Center Professional Development</CodeValue>
-		<ShortDescription>Center Professional Development</ShortDescription>
-		<Description>Center Professional Development</Description>
+		<CodeValue>Center for Professional Development</CodeValue>
+		<ShortDescription>Center for Professional Development</ShortDescription>
+		<Description>Center for Professional Development</Description>
 		<Namespace>uri://tpdm.ed-fi.org/CertificationRouteDescriptor</Namespace>
 	</CertificationRouteDescriptor>
 	<CertificationRouteDescriptor>

@@ -19,51 +19,51 @@
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Q1</CodeValue>
-		<ShortDescription>Q1</ShortDescription>
-		<Description>Q1</Description>
+		<CodeValue>First Quarter</CodeValue>
+		<ShortDescription>First Quarter</ShortDescription>
+		<Description>First Quarter</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Q2</CodeValue>
-		<ShortDescription>Q2</ShortDescription>
-		<Description>Q2</Description>
+		<CodeValue>Second Quarter</CodeValue>
+		<ShortDescription>Second Quarter</ShortDescription>
+		<Description>Second Quarter</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Q3</CodeValue>
-		<ShortDescription>Q3</ShortDescription>
-		<Description>Q3</Description>
+		<CodeValue>Third Quarter</CodeValue>
+		<ShortDescription>Third Quarter</ShortDescription>
+		<Description>Third Quarter</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Fall</CodeValue>
+		<CodeValue>Fall Semester</CodeValue>
 		<ShortDescription>Fall</ShortDescription>
 		<Description>Fall</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Q4</CodeValue>
-		<ShortDescription>Q4</ShortDescription>
-		<Description>Q4</Description>
+		<CodeValue>Fourth Quarter</CodeValue>
+		<ShortDescription>Fourth Quarter</ShortDescription>
+		<Description>Fourth Quarter</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Spring</CodeValue>
-		<ShortDescription>Spring</ShortDescription>
-		<Description>Spring</Description>
+		<CodeValue>Spring Semester</CodeValue>
+		<ShortDescription>Spring Semester</ShortDescription>
+		<Description>Spring Semester</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Summer</CodeValue>
-		<ShortDescription>Summer</ShortDescription>
-		<Description>Summer</Description>
+		<CodeValue>Summer Semester</CodeValue>
+		<ShortDescription>Summer Semester</ShortDescription>
+		<Description>Summer Semester</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 	<EvaluationPeriodDescriptor>
-		<CodeValue>Winter</CodeValue>
-		<ShortDescription>Winter</ShortDescription>
-		<Description>Winter</Description>
+		<CodeValue>Winter Semester</CodeValue>
+		<ShortDescription>Winter Semester</ShortDescription>
+		<Description>Winter Semester</Description>
 		<Namespace>uri://tpdm.ed-fi.org/EvaluationPeriodDescriptor</Namespace>
 	</EvaluationPeriodDescriptor>
 </InterchangeDescriptors>
