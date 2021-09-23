@@ -17,7 +17,7 @@
 		</PerformanceEvaluationReference>
 		<EvaluationTitle>Formal Observation</EvaluationTitle>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<EvaluationRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -2667,7 +2667,7 @@
 		<EvaluationElementTitle>ALIGNMENT AND OBJECTIVES</EvaluationElementTitle>
 		<SortOrder>1</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ElementRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -2717,7 +2717,7 @@
 		<EvaluationElementTitle>INSTRUCTIONAL DELIVERY METHODS</EvaluationElementTitle>
 		<SortOrder>2</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ElementRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -2767,7 +2767,7 @@
 		<EvaluationElementTitle>ADDRESS MISCONCEPTIONS</EvaluationElementTitle>
 		<SortOrder>3</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ElementRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -2817,7 +2817,7 @@
 		<EvaluationElementTitle>CLEAR AND CONCISE SPEECH</EvaluationElementTitle>
 		<SortOrder>4</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ElementRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -2867,7 +2867,7 @@
 		<EvaluationElementTitle>PROFESSIONALISM</EvaluationElementTitle>
 		<SortOrder>5</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ElementRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -2917,7 +2917,7 @@
 		<EvaluationElementTitle>CLASSROOM MANAGEMENT AND CULTURE</EvaluationElementTitle>
 		<SortOrder>6</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ElementRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -2967,7 +2967,7 @@
 		<EvaluationElementTitle>OVERALL</EvaluationElementTitle>
 		<SortOrder>7</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ElementRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -42562,7 +42562,7 @@
 		<EvaluationObjectiveTitle>ALIGNMENT AND OBJECTIVES</EvaluationObjectiveTitle>
 		<SortOrder>1</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ObjectiveRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -42607,7 +42607,7 @@
 		<EvaluationObjectiveTitle>INSTRUCTIONAL DELIVERY METHODS</EvaluationObjectiveTitle>
 		<SortOrder>2</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ObjectiveRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -42652,7 +42652,7 @@
 		<EvaluationObjectiveTitle>ADDRESS MISCONCEPTIONS</EvaluationObjectiveTitle>
 		<SortOrder>3</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ObjectiveRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -42697,7 +42697,7 @@
 		<EvaluationObjectiveTitle>CLEAR AND CONCISE SPEECH</EvaluationObjectiveTitle>
 		<SortOrder>4</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ObjectiveRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -42742,7 +42742,7 @@
 		<EvaluationObjectiveTitle>PROFESSIONALISM</EvaluationObjectiveTitle>
 		<SortOrder>5</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ObjectiveRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -42787,7 +42787,7 @@
 		<EvaluationObjectiveTitle>CLASSROOM MANAGEMENT AND CULTURE</EvaluationObjectiveTitle>
 		<SortOrder>6</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ObjectiveRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
@@ -42832,7 +42832,7 @@
 		<EvaluationObjectiveTitle>OVERALL</EvaluationObjectiveTitle>
 		<SortOrder>7</SortOrder>
 		<MaxRating>100</MaxRating>
-		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Eval</EvaluationType>
+		<EvaluationType>uri://tpdm.ed-fi.org/EvaluationTypeDescriptor#Formal Evaluation</EvaluationType>
 		<ObjectiveRatingLevel>
 			<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Ineffective</EvaluationRatingLevel>
 			<MinRating>0</MinRating>
