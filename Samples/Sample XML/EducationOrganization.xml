@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InterchangeEducationOrganization xmlns:ann="http://ed-fi.org/annotation" xsi:schemaLocation="http://ed-fi.org/3.3.1-b C:/GitHub/Ed-Fi-TPDM-Model/MetaEdOutput/TPDM/Interchange/EXTENSION-Interchange-EducationOrganization-Extension.xsd" xmlns="http://ed-fi.org/3.3.1-b" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<School>
+		<NameOfInstitution>UT Austin College of Education Graduate</NameOfInstitution>
+		<EducationOrganizationCategory>uri://tpdm.ed-fi.org/EducationOrganizationCategoryDescriptor#Educator Preparation Provider</EducationOrganizationCategory>
+		<Address>
+			<StreetNumberName>1912 Speedway Stop D5000</StreetNumberName>
+			<City>Austin</City>
+			<StateAbbreviation>uri://ed-fi.org/StateAbbreviationDescriptor#TX</StateAbbreviation>
+			<PostalCode>78712</PostalCode>
+			<NameOfCounty>Travis</NameOfCounty>
+			<AddressType>uri://ed-fi.org/AddressTypeDescriptor#Physical</AddressType>
+		</Address>
+		<SchoolId>5</SchoolId>
+		<GradeLevel>uri://ed-fi.org/GradeLevelDescriptor#Postsecondary</GradeLevel>
+	</School>
+	<School>
+		<NameOfInstitution>UT Austin College of Education Under Graduate</NameOfInstitution>
+		<EducationOrganizationCategory>uri://tpdm.ed-fi.org/EducationOrganizationCategoryDescriptor#Educator Preparation Provider</EducationOrganizationCategory>
+		<Address>
+			<StreetNumberName>1912 Speedway Stop D5000</StreetNumberName>
+			<City>Austin</City>
+			<StateAbbreviation>uri://ed-fi.org/StateAbbreviationDescriptor#TX</StateAbbreviation>
+			<PostalCode>78712</PostalCode>
+			<NameOfCounty>Travis</NameOfCounty>
+			<AddressType>uri://ed-fi.org/AddressTypeDescriptor#Physical</AddressType>
+		</Address>
+		<SchoolId>6</SchoolId>
+		<GradeLevel>uri://ed-fi.org/GradeLevelDescriptor#Postsecondary</GradeLevel>
+	</School>
+	<School>
+		<NameOfInstitution>UT Austin Extended Campus</NameOfInstitution>
+		<EducationOrganizationCategory>uri://tpdm.ed-fi.org/EducationOrganizationCategoryDescriptor#Educator Preparation Provider</EducationOrganizationCategory>
+		<Address>
+			<StreetNumberName>1616 Guadalupe Street</StreetNumberName>
+			<City>Austin</City>
+			<StateAbbreviation>uri://ed-fi.org/StateAbbreviationDescriptor#NM</StateAbbreviation>
+			<PostalCode>78701</PostalCode>
+			<NameOfCounty>Travis</NameOfCounty>
+			<AddressType>uri://ed-fi.org/AddressTypeDescriptor#Physical</AddressType>
+		</Address>
+		<SchoolId>7</SchoolId>
+		<GradeLevel>uri://ed-fi.org/GradeLevelDescriptor#Postsecondary</GradeLevel>
+	</School>
+</InterchangeEducationOrganization>
