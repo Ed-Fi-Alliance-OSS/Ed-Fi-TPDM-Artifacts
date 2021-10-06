@@ -13,6 +13,11 @@
 		</Address>
 		<SchoolId>5</SchoolId>
 		<GradeLevel>uri://ed-fi.org/GradeLevelDescriptor#Postsecondary</GradeLevel>
+		<PostSecondaryInstitutionReference>
+			<PostSecondaryInstitutionIdentity>
+				<PostSecondaryInstitutionId>6000203</PostSecondaryInstitutionId>
+			</PostSecondaryInstitutionIdentity>
+		</PostSecondaryInstitutionReference>
 	</School>
 	<School>
 		<NameOfInstitution>UT Austin College of Education Under Graduate</NameOfInstitution>
@@ -27,6 +32,11 @@
 		</Address>
 		<SchoolId>6</SchoolId>
 		<GradeLevel>uri://ed-fi.org/GradeLevelDescriptor#Postsecondary</GradeLevel>
+		<PostSecondaryInstitutionReference>
+			<PostSecondaryInstitutionIdentity>
+				<PostSecondaryInstitutionId>6000203</PostSecondaryInstitutionId>
+			</PostSecondaryInstitutionIdentity>
+		</PostSecondaryInstitutionReference>
 	</School>
 	<School>
 		<NameOfInstitution>UT Austin Extended Campus</NameOfInstitution>
@@ -41,5 +51,10 @@
 		</Address>
 		<SchoolId>7</SchoolId>
 		<GradeLevel>uri://ed-fi.org/GradeLevelDescriptor#Postsecondary</GradeLevel>
+		<PostSecondaryInstitutionReference>
+			<PostSecondaryInstitutionIdentity>
+				<PostSecondaryInstitutionId>6000203</PostSecondaryInstitutionId>
+			</PostSecondaryInstitutionIdentity>
+		</PostSecondaryInstitutionReference>
 	</School>
 </InterchangeEducationOrganization>
