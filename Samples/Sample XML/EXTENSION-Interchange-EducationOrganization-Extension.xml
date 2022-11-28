@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<InterchangeEducationOrganization xmlns:ann="http://ed-fi.org/annotation" xmlns="http://ed-fi.org/4.0.0-a">
+<InterchangeEducationOrganization xmlns:ann="http://ed-fi.org/annotation" xmlns="http://ed-fi.org/4.0.0">
 	<EducatorPreparationProgram>
 		<EducationOrganizationReference>
 			<EducationOrganizationIdentity>
