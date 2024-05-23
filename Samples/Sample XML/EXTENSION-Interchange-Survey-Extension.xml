@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<InterchangeSurvey xmlns:ann="http://ed-fi.org/annotation" xmlns="http://ed-fi.org/5.0.0">
+<InterchangeSurvey xmlns:ann="http://ed-fi.org/annotation" xmlns="http://ed-fi.org/5.1.0">
 	<SurveySectionResponse>
 		<SurveySectionReference>
 			<SurveySectionIdentity>
