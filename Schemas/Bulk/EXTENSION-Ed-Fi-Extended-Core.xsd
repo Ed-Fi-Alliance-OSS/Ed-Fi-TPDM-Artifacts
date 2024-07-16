@@ -568,6 +568,16 @@
               </xs:appinfo>
             </xs:annotation>
           </xs:element>
+          <xs:element name="Comments" type="EXTENSION-Comments" minOccurs="0">
+            <xs:annotation>
+              <xs:documentation>Any comments about the evaluation to be captured.</xs:documentation>
+            </xs:annotation>
+          </xs:element>
+          <xs:element name="ActualDuration" type="Duration" minOccurs="0">
+            <xs:annotation>
+              <xs:documentation>The actual or estimated number of clock minutes during which the evaluation was conducted.</xs:documentation>
+            </xs:annotation>
+          </xs:element>
         </xs:sequence>
       </xs:extension>
     </xs:complexContent>

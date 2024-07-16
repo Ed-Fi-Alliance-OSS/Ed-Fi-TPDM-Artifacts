@@ -90,6 +90,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>60</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -142,6 +143,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<ActualDuration>60</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -194,6 +196,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>57</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -246,6 +249,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<Comments>A behavior plan and collaboration with a mentor are recommended.</Comments>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -298,6 +302,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>60</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -350,6 +355,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>57</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -402,6 +408,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<ActualDuration>60</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -506,6 +513,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<ActualDuration>57</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -610,6 +618,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<ActualDuration>55</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -714,6 +723,8 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<Comments>A behavior plan and collaboration with a mentor are recommended.</Comments>
+		<ActualDuration>55</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -870,6 +881,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<ActualDuration>59</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1026,6 +1038,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>59</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1130,6 +1143,8 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<Comments>A behavior plan and collaboration with a mentor are recommended.</Comments>
+		<ActualDuration>58</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1286,6 +1301,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>58</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1338,6 +1354,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>60</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1442,6 +1459,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<ActualDuration>60</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1546,6 +1564,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Well-managed and differentiated instruction fosters student success.</Comments>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1598,6 +1617,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>60</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1650,6 +1670,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<Comments>A behavior plan and collaboration with a mentor are recommended.</Comments>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1702,6 +1723,8 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Excels at creating a positive and engaging learning environment. Well-managed and differentiated instruction fosters student success.</Comments>
+		<ActualDuration>54</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1806,6 +1829,8 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Well-managed and differentiated instruction fosters student success.</Comments>
+		<ActualDuration>54</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1910,6 +1935,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<ActualDuration>54</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -1962,6 +1988,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Well-managed and differentiated instruction fosters student success.</Comments>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2014,6 +2041,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>54</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2066,6 +2094,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Well-managed and differentiated instruction fosters student success.</Comments>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2118,6 +2147,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<ActualDuration>58</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2170,6 +2200,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Excels at creating a positive and engaging learning environment. Well-managed and differentiated instruction fosters student success.</Comments>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2274,6 +2305,8 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Well-managed and differentiated instruction fosters student success.</Comments>
+		<ActualDuration>58</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2378,6 +2411,8 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Excels at creating a positive and engaging learning environment. Well-managed and differentiated instruction fosters student success.</Comments>
+		<ActualDuration>56</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2482,6 +2517,8 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Effective</EvaluationRatingLevel>
+		<Comments>Excels at creating a positive and engaging learning environment. Well-managed and differentiated instruction fosters student success.</Comments>
+		<ActualDuration>56</ActualDuration>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
@@ -2534,6 +2571,7 @@
 			<ResultDatatypeType>uri://ed-fi.org/ResultDatatypeTypeDescriptor#Integer</ResultDatatypeType>
 		</EvaluationRatingResult>
 		<EvaluationRatingLevel>uri://tpdm.ed-fi.org/EvaluationRatingLevelDescriptor#Minimally Effective</EvaluationRatingLevel>
+		<Comments>A behavior plan and collaboration with a mentor are recommended.</Comments>
 	</EvaluationRating>
 	<EvaluationRating>
 		<PerformanceEvaluationRatingReference>
